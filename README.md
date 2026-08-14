@@ -203,6 +203,10 @@ Use this to depoy to Vercel - [DEPLOY-TO-VERCEL.md](DEPLOY-TO-VERCEL.md)
 
 Follow the checklist in [CLAUDE.md — Forking for a New Client Project](CLAUDE.md#forking-for-a-new-client-project), then run `pnpm run validate` to confirm no template placeholders remain.
 
+## AI Use Acknowledgement
+
+I completed this project by following [docs/TUTORIAL-WALKTHROUGH.md](docs/TUTORIAL-WALKTHROUGH.md), and used Cursor AI to help me understand the code, steps, and processes along the way.
+
 ## Credits
 
 Original boilerplate by **Duc Gia Tin Huynh** ([LinkedIn](https://www.linkedin.com/in/huynhducgiatin/)).
